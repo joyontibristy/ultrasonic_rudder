@@ -1,6 +1,6 @@
 #include <NewPing.h>
 
-// === Configuration ===
+// ===Configuration ==
 #define NUM_SENSORS 6
 const int trigPins[NUM_SENSORS] = {12, 14, 26, 33, 22, 19};
 const int echoPins[NUM_SENSORS] = {13, 27, 25, 32, 21, 18};
